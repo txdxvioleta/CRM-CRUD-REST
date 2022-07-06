@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "qqqqqqqqqqq",
+      "email": "gcaram95@gmail.com",
+      "telefono": "13454",
+      "empresa": "Matrix",
+      "id": 2
+    },
+    {
+      "nombre": "Gonzalo",
+      "email": "ad@asda.com",
+      "telefono": "32",
+      "empresa": "Matrix",
+      "id": 3
+    }
+  ]
+}
